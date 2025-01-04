@@ -1,7 +1,11 @@
 TEMA ESCOLHIDO:
 
 EQUIPE:
-RAFAEL QUEIROZ - [github.com/rafapotiguar]
-HIARLLEY BRANDÃO - [github.com/hiarlleybrandao]
+
+<a href="https://github.com/rafapotiguar/"> RAFAEL QUEIROZ
+
+<a href="https://github.com/hiarlleybrandao/"> HIARLLEY BRANDÃO
+
 MÁRCIO -
+
 TAILINE -
